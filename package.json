@@ -1,0 +1,15 @@
+{
+  "name": "ece461-reviewedprs-samplerepo",
+  "version": "1.0.0",
+  "description": "PRs are awesome!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlelievre26/ECE461-ReviewedPRs-SampleRepo"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ECE 461 Teaching Team",
+  "license": "MIT"
+}
