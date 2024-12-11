@@ -1,0 +1,1 @@
+This repo is meant to be used as an example repo for the ECE 461 autograder that only adds content to the main branch through reviewed PRs. It should score a 1 on the PR-related metrics.
